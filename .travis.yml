@@ -1,0 +1,6 @@
+language: java
+branches:
+  only:
+    - create_build_job
+sudo: false
+script: mvn clean verify
