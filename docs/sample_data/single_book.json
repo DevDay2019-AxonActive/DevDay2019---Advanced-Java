@@ -1,0 +1,58 @@
+{
+  "id": 3,
+  "name": "Twilight",
+  "author": "Stephenie Meyer",
+  "serialNumber": "316015849",
+  "bookDetails": [
+    {
+      "bookDetailId": 3,
+      "source": "AAVN library",
+      "description": "libib.aavn"
+    },
+    {
+      "bookDetailId": 31,
+      "source": "Amazon",
+      "description": "https://www.amazon.com/Twilight-Saga-Book-1/dp/0316015849/ref=bseries_primary_1_0316015849",
+      "bookTags": [
+        {
+          "tagId": 101,
+          "tag": "Fantasy"
+        },
+        {
+          "tagId": 110,
+          "tag": "Twilight Saga Series"
+        }
+      ]
+    },
+    {
+      "bookDetailId": 32,
+      "source": "Fahasa",
+      "description": "https://www.fahasa.com/twilight.html",
+      "bookRatings": [
+        {
+          "ratingId": "21",
+          "rating": 4
+        },
+        {
+          "ratingId": "25",
+          "rating": 2
+        }
+      ],
+      "bookComments": [
+        {
+          "commentId": 1,
+          "comment": "It's boring and clumsy written"
+        },
+        {
+          "commentId": 2,
+          "comment": "It's abusive & not suitable for teen"
+        },
+        {
+          "commentId": 3,
+          "comment": "I first read this series when I was 12 or 13 and LOVED it.",
+          "parentId": "1"
+        }
+      ]
+    }
+  ]
+}

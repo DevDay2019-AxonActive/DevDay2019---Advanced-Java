@@ -1,0 +1,8 @@
+MVP:
+	GET: {{server:port}}/library-core/api/books/
+	GET: {{server:port}}/library-core/api/books/{bookId}
+
+V1:
+	POST: {{server:port}}/library-core/api/books/search
+
+	GET: {{server:port}}/library-core/api/books/{bookId}/comments/

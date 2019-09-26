@@ -1,0 +1,21 @@
+
+[
+	{
+	  "id": 1,
+	  "name": "The Hunger Games",
+	  "author": "Suzanne Collins",
+	  "serialNumber": "439023483"
+	},
+	{
+	  "id": 2,
+	  "name": "Harry Potter and the Philosopher's Stone",
+	  "author": "J.K. Rowling, Mary GrandPré",
+	  "serialNumber": "439554934"
+	},
+	{
+	  "id": 3,
+	  "name": "Twilight",
+	  "author": "Stephenie Meyer",
+	  "serialNumber": "316015849"
+	}
+]
