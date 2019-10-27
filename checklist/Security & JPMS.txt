@@ -1,0 +1,16 @@
+1. Security API Endpoint:
+
+Step 1: Select technology to secure Rest API
+Step 2: Apply to our application & integrated with login function
+Step 3: Testing to make sure the consumer can only access after login successfully
+
+-------------------------------------
+
+2. Jave Platform Module System: 
+
+Step 1: Upgrade your dependencies
+Step 2: Determine module's boundary
+Step 3: Prepare module structure & refactor code
+Step 4: Add module descriptors bottom-up
+Step 5: Resolve issues at boot time
+Step 6: Test all paths to make sure the aplication work
