@@ -1,5 +1,6 @@
-1. Parse structure of log files into Elasticsearch (logstash)
-2. Visualize chart using Kibana (at least 1):
+1. After apply spring security to project, write username to logfile (using Filter and Log4j2 MDC) (optional)
+2. Parse structure of log files into Elasticsearch (logstash)
+3. Visualize chart using Kibana (at least 1):
   + Most searched keyword
   + Most called service
 ...
