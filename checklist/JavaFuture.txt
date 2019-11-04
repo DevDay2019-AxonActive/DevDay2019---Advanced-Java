@@ -1,5 +1,4 @@
-1. Apply Basic Java Future 
-	a. get() method to verify the performance.
-	b. get( ) with time out
-	c. isDone(), isCancel(), isTerminal()
-2. Apply lamda to shorten sourcecode
+1. Apply Basic Java Future
+	a. apply Future with Callable by using executor, submit(), get() in DefaultSearchingService
+	b. get(time, timeunit) to generate a TimeoutException
+	c. isDone(), isCancel(), cancel() to verify whether futre is finished or not
