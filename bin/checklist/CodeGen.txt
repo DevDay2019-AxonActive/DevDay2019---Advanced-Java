@@ -1,0 +1,2 @@
+1. Replace all getter, setter, constructor using lombok
+2. Replace all manual mapper (Entities to DTOs) using Mapstruct
