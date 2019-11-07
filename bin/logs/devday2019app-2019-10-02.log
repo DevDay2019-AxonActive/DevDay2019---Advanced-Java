@@ -1,0 +1,9 @@
+2019-10-02 - 09:27:26.367 - I -                   org.springframework.boot.StartupInfoLogger | Starting EntryPoint on aavn-laptop51 with PID 7244 (D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning\target\classes started by dtan in D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning)
+2019-10-02 - 09:27:26.401 - I -                   org.springframework.boot.SpringApplication | No active profile set, falling back to default profiles: default
+2019-10-02 - 09:27:36.397 - I -                   org.springframework.boot.StartupInfoLogger | Started EntryPoint in 10.484 seconds (JVM running for 31.83)
+2019-10-02 - 11:38:09.965 - I -                   org.springframework.boot.StartupInfoLogger | Starting EntryPoint on aavn-laptop51 with PID 23888 (D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning\target\classes started by dtan in D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning)
+2019-10-02 - 11:38:09.978 - I -                   org.springframework.boot.SpringApplication | No active profile set, falling back to default profiles: default
+2019-10-02 - 11:38:18.512 - I -                   org.springframework.boot.StartupInfoLogger | Started EntryPoint in 8.974 seconds (JVM running for 15.435)
+2019-10-02 - 11:50:38.843 - I -                   org.springframework.boot.StartupInfoLogger | Starting EntryPoint on aavn-laptop51 with PID 6976 (D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning\target\classes started by dtan in D:\workspaces\DevDay2019\DevDay2019-Performance-Tuning)
+2019-10-02 - 11:50:38.854 - I -                   org.springframework.boot.SpringApplication | No active profile set, falling back to default profiles: default
+2019-10-02 - 11:50:45.725 - I -                   org.springframework.boot.StartupInfoLogger | Started EntryPoint in 7.265 seconds (JVM running for 12.811)

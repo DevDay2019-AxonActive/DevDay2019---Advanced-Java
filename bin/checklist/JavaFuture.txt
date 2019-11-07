@@ -1,0 +1,5 @@
+1. Apply Basic Java Future 
+	a. get() method to verify the performance.
+	b. get( ) with time out
+	c. isDone(), isCancel(), isTerminal()
+2. Apply lamda to shorten sourcecode

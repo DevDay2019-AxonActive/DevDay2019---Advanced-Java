@@ -1,0 +1,7 @@
+1. Parse structure of log files into Elasticsearch (logstash)
+2. Visualize chart using Kibana (at least 2):
+  + Most searched keyword
+  + Most called service
+  + Response time of server
+  + Number of service called per user
+...

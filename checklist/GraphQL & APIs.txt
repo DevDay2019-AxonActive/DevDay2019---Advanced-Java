@@ -1,0 +1,16 @@
+GraphQL
+1. Add graphQL dependency to project
+2. Add GraphQL schema for back-end
+3. Implement end-point for GraphQL query 
+	3.1. Minimum feature: get single book by Id
+	3.2. Must not affect existing API (front-end & mobile V1 can work without any modification)
+4. Can demo from Postman: user can choose which fields to get from backend
+
+Multi-API versions
+1. Apply Compatible approach, choose 1 technique for your team
+2. Define convention for V2
+3. Implement V2 POST: /library-core/api/book
+	2.1. User can choose to search by keywords from specific source
+	2.1. If front-end & mobile calling using V1 API, it is still response as V1
+	
+	
