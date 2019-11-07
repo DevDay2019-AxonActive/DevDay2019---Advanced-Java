@@ -2,7 +2,8 @@
 
 Step 1: Select technology to secure Rest API
 Step 2: Apply to our application & integrated with login function
-Step 3: Testing to make sure the consumer can only access after login successfully
+Step 3: Write username to logfile (using Filter and Log4j2 MDC)
+Step 4: Testing to make sure the consumer can only access after login successfully
 
 -------------------------------------
 
